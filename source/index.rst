@@ -1,16 +1,23 @@
-Finally... Hello World!!!!
-==========================
+Hello World
+===========
 
 
 Welcome to ex25's documentation!
 ================================
 
-Heres an attempt at a code box
+Here's an attempt at a code box:
 
 ::
     
     print 'here goes nothing'
     > here goes nothing
+    
+    if 5 + 1 == 6:
+        print 'math!!'
+    else:
+        print 'What is going on?'
+
+
 
 Guide
 ^^^^^
@@ -18,8 +25,9 @@ Guide
 .. toctree::
    :maxdepth: 2
 
-    readme
-    help
+    - readme
+
+    - help
 
 
 Indices and tables
