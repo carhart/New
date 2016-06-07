@@ -12,9 +12,13 @@ Welcome to ex25's documentation!
 
 Guide:
 
-Heres an attempt at a code box::
+Heres an attempt at a code box
+
+::
+    
     print 'here goes nothing'
     > here goes nothing
+
 
 .. toctree::
    :maxdepth: 2
