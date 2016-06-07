@@ -25,9 +25,9 @@ Guide
 .. toctree::
    :maxdepth: 2
 
-    * :ref:'readme.rst'
+    * :ref:'readme'
 
-    * :ref:'help.rst'
+    * :ref:'help'
 
 
 Indices and tables
