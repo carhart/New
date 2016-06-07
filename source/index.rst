@@ -20,9 +20,11 @@ Heres an attempt at a code box
     > here goes nothing
 
 
+
 .. toctree::
    :maxdepth: 2
-
+    readme
+    help
 
 
 Indices and tables
