@@ -22,7 +22,7 @@ Still trying to figure out how to create working links to license and help docs 
         
         Gonna go through the rST quickref documentation to get the syntax down,         then see if I can create a good RTD link for my ex25 example code.
 
-Above, I test the paragraph functionality, and here, I'm testing the *italics* and **bold** functionalities ("inline markup"). Backslashes before asterisks \*should``*`` remove italicization as well as double back--quotes ("`", apparently).
+Above, I test the paragraph functionality, and here, I'm testing the *italics* and **bold** functionalities ("inline markup"). Backslashes before asterisks \*should\* remove italicization as well as double back--quotes ("`", apparently).
 
 Now it's time to make some lists:
 =================================
