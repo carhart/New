@@ -66,7 +66,7 @@ Guide
 .. toctree::
    :maxdepth: 2
 
-   example25    
+   example25.py   
 
    help
 
