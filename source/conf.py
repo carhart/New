@@ -22,7 +22,7 @@
 
 import os
 import sys
-sys.path.insert(0, 'C:\Users\Jack\python_projects\Code\documentation_master\ex25\source')
+sys.path.insert(0, 'ex25/source')
 
 
 # -- General configuration ------------------------------------------------
