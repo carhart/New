@@ -68,9 +68,9 @@ Guide
 
    ex25 functions    
 
-   os.path.abspath('ex25/misc_docs/help.rst)
+   help
 
-   os.path.abspath('ex25/misc_docs/readme.rst)
+   readme
 
 
 Indices and tables
