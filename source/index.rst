@@ -64,9 +64,7 @@ Guide
 ^^^^^
 
 .. toctree::
-   :maxdepth: 2
-
-   example25.py   
+   :maxdepth: 2   
 
    help
 
@@ -80,3 +78,11 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
+Documentation for EX25
+++++++++++++++++++++++
+
+Below, documentation for Example 25 should show.
+
+.. automodule:: example25
+   :members:
