@@ -66,7 +66,7 @@ Guide
 .. toctree::
    :maxdepth: 2
 
-   ex25 functions    
+   example25    
 
    help
 
