@@ -84,5 +84,8 @@ Documentation for EX25
 
 Below, documentation for Example 25 should show.
 
-.. automodule:: example25.py
+.. automodule:: example25
   :members:
+  :undoc-members:
+  :show-inheritance:
+
