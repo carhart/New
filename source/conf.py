@@ -22,7 +22,7 @@
 
 import os
 import sys
-sys.path.insert(0, 'C:\Users\Jack\python_projects\Code\documentation_master\ex25')
+sys.path.insert(0, 'C:\Users\Jack\python_projects\Code\documentation_master\ex25\source')
 
 
 # -- General configuration ------------------------------------------------
@@ -37,7 +37,8 @@ sys.path.insert(0, 'C:\Users\Jack\python_projects\Code\documentation_master\ex25
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
+    'sphinx.ext.intersphinx'
+    'sphinx.ext.napoleon',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
