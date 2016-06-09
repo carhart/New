@@ -80,9 +80,9 @@ Indices and tables
 
 
 Documentation for EX25
-++++++++++++++++++++++
+======================
 
 Below, documentation for Example 25 should show.
 
 .. automodule:: example25.py
-   :members:
+  :members:
